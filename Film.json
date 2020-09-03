@@ -47,6 +47,30 @@
           "Age": "34"
         }
       ]
+    },
+    {
+      "Titre": "Avatar",
+      "directeur": "James Cameron",
+      "Auteur": "James Cameron",
+      "Description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home. ",
+      "Date": 2009,
+      "Vedette": [
+        {
+          "Nom": "Sam Worthington",
+          "Personnage": "Tyler Durden",
+          "Age": "29"
+        },
+        {
+          "Nom": "Zoe Saldana",
+          "Personnage": "(Narrateur)",
+          "Age": "42"
+        },
+        {
+          "Nom": "Sigourney Weaver",
+          "Personnage": "Robert Bob Paulsen",
+          "Age": "34"
+        }
+      ]
     }
   ]
 }
