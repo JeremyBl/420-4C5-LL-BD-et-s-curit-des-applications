@@ -9,15 +9,18 @@
       "Vedette": [
         {
           "Nom": "Sandra Bullock",
-          "Personnage": "Scarlet Overkill (voix)"
+          "Personnage": "Scarlet Overkill (voix)",
+          "Age": "44"
         },
         {
           "Nom": "Jon Hamm",
-          "Personnage": "Herb Overkill  (voix)"
+          "Personnage": "Herb Overkill  (voix)",
+          "Age": "49"
         },
         {
           "Nom": "Michael Keaton",
-          "Personnage": "Walter Nelson (voix)"
+          "Personnage": "Walter Nelson (voix)",
+          "Age": "33"
         }
       ]
     },
@@ -30,15 +33,18 @@
       "Vedette": [
         {
           "Nom": "Brad Pitt",
-          "Personnage": "Tyler Durden"
+          "Personnage": "Tyler Durden",
+          "Age": "29"
         },
         {
           "Nom": "Edward Norton",
-          "Personnage": "(Narrateur)"
+          "Personnage": "(Narrateur)",
+          "Age": "42"
         },
         {
           "Nom": "Meat Loaf",
-          "Personnage": "Robert Bob Paulsen"
+          "Personnage": "Robert Bob Paulsen",
+          "Age": "34"
         }
       ]
     }
